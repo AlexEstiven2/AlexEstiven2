@@ -1,7 +1,7 @@
 <!-- Encabezado Principal con Avatar 3D -->
 <div align="center">
   <!-- Reemplaza esta URL por el GIF/WebP animado en bucle de tu personaje 3D (Elena u otro de tu preferencia) -->
-  <img src="URL_DE_TU_PERSONAJE_3D_ANIMADO.webp" alt="Alex Martínez 3D Avatar" width="220" style="margin-bottom: 20px;" />
+  <img src="avatar.png" alt="Alex Martínez 3D Avatar" width="220" style="margin-bottom: 20px;" />
   
   <h1>Alex Estiven Martínez Robledo</h1>
   <h3>🚀 Desarrollador de Software Full Stack & Tech Entrepreneur</h3>
